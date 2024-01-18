@@ -1,6 +1,6 @@
 ### Hi, I'm Pavlo 👋
 
-I'm Pavel Lugovoy, I teach hard study Front-end, I study at IT Step. In my free time I create websites or some projects.
+I'm Pavlo Lugovy, I teach hard study Front-end, I study at IT Step. In my free time I create websites or some projects.
 
 📫 Reach me out!
 
