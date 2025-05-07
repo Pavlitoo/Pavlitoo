@@ -39,7 +39,7 @@ I always focus on results, ensuring high quality and meeting client requirements
 ## 📫 How to contact me?
 - 📸 Instagram: [@l.pashaa](https://instagram.com/l.pashaa)  
 - ✈️ Telegram: [@lpashaaa](https://t.me/lpashaaa)  
-- ✉️ Email: pasalugovij@gmail.com *(replace with your actual email)*  
+- ✉️ Email: pasalugovij@gmail.com
 
 ---
 
