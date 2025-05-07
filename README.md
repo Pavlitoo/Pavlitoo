@@ -1,27 +1,46 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=Pavlitoo&margin-w=15)
+# 👋 Hi! I'm Pavlitoo
 
+## 🌟 Who am I?
+I am a **Web Developer** creating modern, functional, and responsive websites of **any complexity**. From simple landing pages to complex web applications — I can turn your ideas into reality.  
 
-### Hi, I'm Pavlo 👋
+My goal is to help every client find their place in the digital world using the latest technologies and development approaches.
 
-I'm Pavlo Lugovy, I teach hard study Front-end, I study at IT Step. In my free time I create websites or some projects.
+---
 
-📫 Reach me out!
+## 🛠️ What can I create?
+✔️ **Landing pages**: effective pages for sales and presentations  
+✔️ **Corporate websites**: convenient platforms for businesses  
+✔️ **E-commerce stores**: websites with integrated sales systems  
+✔️ **Blog platforms**: based on WordPress or custom solutions  
+✔️ **Complex web applications**: interactive SPAs with React  
 
-![Static Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&labelColor=%23E4405F&color=pink&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fl.pashaa%3Figsh%3DcnlsbDg0MzNwczQ4)
-![Static Badge](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white&labelColor=26A5E4&color=blue)
+I always focus on results, ensuring high quality and meeting client requirements.
 
-#### Top Technologies
+---
 
-![Static Badge](https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javaScript&logoColor=white&labelColor=black&color=yellow)
-![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)
-![Static Badge](https://img.shields.io/badge/Html5-1572B6?style=for-the-badge&logo=Html5&logoColor=white&labelColor=black&color=red)
+## 🛠️ Tools I use
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
+---
 
-### I'm studying
+## 🎯 My goals
+- 🚀 Develop more complex and interesting projects
+- 🌱 Continuously improve my skills
+- 🤝 Collaborate on exciting projects with creative teams
 
-![Static Badge](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black&color=green)
-![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black)
+---
 
-<br></br>
-![Pavlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavlitoo&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlitoo&layout=compact)
+## 📫 How to contact me?
+- 📸 Instagram: [@l.pashaa](https://instagram.com/l.pashaa)  
+- ✈️ Telegram: [@lpashaaa](https://t.me/lpashaaa)  
+- ✉️ Email: pasalugovij@gmail.com *(replace with your actual email)*  
+
+---
+
+_"Websites of any complexity? Easy! Ready to turn your idea into the perfect web product."_
